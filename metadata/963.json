@@ -1,0 +1,38 @@
+{
+  "name": "#963",
+  "description": "ANONSHIB is a community-driven token.  This is a token that will connect our investors with the ability to stake in our native token and introduce them to NFT blockchain technology. ",
+  "external_url": "",
+  "image": "963.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur Color ",
+      "value": "Purple Fur"
+    },
+    {
+      "trait_type": "Mask ",
+      "value": "Anonymous Nameless Mask"
+    },
+    {
+      "trait_type": "Clothing ",
+      "value": "Wen Moon"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Red Flame"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "963.webp",
+        "type": "image/webp"
+      }
+    ],
+    "creators": []
+  },
+  "compiler": "https://nft-generator.art"
+}
